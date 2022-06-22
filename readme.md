@@ -1,7 +1,7 @@
 # Sunday 10 test practising quetions.
 
 Adding photos.
-<img src="photo1.png'>
+<img src="photo1.png">
 
 ---
 
