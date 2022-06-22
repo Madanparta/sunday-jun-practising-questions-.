@@ -34,3 +34,5 @@ If after certain number of steps finally we get 1 than number is called "CodeSpe
 in case if it is not possible to get 1 after any number of steps than lets call that number "SomethingUnusual"
 
 ---
+
+`remaing we coming.....`
