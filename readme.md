@@ -1,5 +1,8 @@
 # Sunday 10 test practising quetions.
 
+Adding photos.
+<img src="photo1.png'>
+
 ---
 
 `1.`Write a code to take time in seconds and convert it into hour, mins and seonds.
