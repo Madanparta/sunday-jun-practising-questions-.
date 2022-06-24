@@ -41,3 +41,40 @@
 //     }
 // }
 // console.log(findSumValueOfDigits(77));
+
+//4.FIND THE NUMBER OF STUDENTS.
+// ANSWER.
+// function students(a,b){
+//     for(let i = 0; i<=7; i++){
+//       let tenthClass = a + b;
+//       a = b;
+//       b = tenthClass;
+//     }
+//     return b;
+//   }
+//   console.log(students(20,30))
+
+//5.ONLY USING SWITCH
+// ANSWER.
+// function biggest(a,b,c){
+//     switch(a>b && a>c){
+//       case true:
+//         return a;
+//         break
+//     }
+//     switch(b>a && b>c){
+//       case true:
+//         return b;
+//         break
+//     }
+//     switch(c>a && c>b){
+//       case true:
+//         return c;
+//         break
+//     }
+//     switch(a==b || b==c || a==c){
+//       case true:
+//         return ("None of them is biggest");
+//     }
+//   }
+//   console.log(biggest(20,56,65))

@@ -35,4 +35,16 @@ in case if it is not possible to get 1 after any number of steps than lets call 
 
 ---
 
+`4.`Abhishek choudhary is the teacher of a higher secondary school. He was assigned a task to record the number of students in each class. The 1st class has ‘A ’ students and 2nd class has ‘B’ students. He completed noting down all the classes but till he reached class xth the school was over. When he was going through the list he noticed that the next class had students equal to the sum of its last two classes. Can you help him to find out the number of students present in xth class using the above details.
+
+---
+
+`5.`No if else is allowed.
+
+Take 3 numbers and find and return biggest of them. If all three numbers are same than print "None of them is biggest"
+
+if there are two numbers same as biggest than also print "None of them is biggest"
+
+---
+
 `remaing we coming.....`
